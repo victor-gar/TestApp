@@ -12,48 +12,6 @@
     "public_members_url": "https://api.github.com/orgs/ggobi/public_members{/member}",
     "avatar_url": "https://smartcity.curs.kz/SmartArsu/Resources/History/News.png",
     "description": ""
-  },
-  {
-    "login": "rstudio",
-    "id": 513560,
-    "node_id": "MDEyOk9yZ2FuaXphdGlvbjUxMzU2MA==",
-    "url": "https://api.github.com/orgs/rstudio",
-    "repos_url": "https://api.github.com/orgs/rstudio/repos",
-    "events_url": "https://api.github.com/orgs/rstudio/events",
-    "hooks_url": "https://api.github.com/orgs/rstudio/hooks",
-    "issues_url": "https://api.github.com/orgs/rstudio/issues",
-    "members_url": "https://api.github.com/orgs/rstudio/members{/member}",
-    "public_members_url": "https://api.github.com/orgs/rstudio/public_members{/member}",
-    "avatar_url": "https://avatars.githubusercontent.com/u/513560?v=4",
-    "description": ""
-  },
-  {
-    "login": "rstats",
-    "id": 722735,
-    "node_id": "MDEyOk9yZ2FuaXphdGlvbjcyMjczNQ==",
-    "url": "https://api.github.com/orgs/rstats",
-    "repos_url": "https://api.github.com/orgs/rstats/repos",
-    "events_url": "https://api.github.com/orgs/rstats/events",
-    "hooks_url": "https://api.github.com/orgs/rstats/hooks",
-    "issues_url": "https://api.github.com/orgs/rstats/issues",
-    "members_url": "https://api.github.com/orgs/rstats/members{/member}",
-    "public_members_url": "https://api.github.com/orgs/rstats/public_members{/member}",
-    "avatar_url": "https://avatars.githubusercontent.com/u/722735?v=4",
-    "description": null
-  },
-  {
-    "login": "ropensci",
-    "id": 1200269,
-    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyMDAyNjk=",
-    "url": "https://api.github.com/orgs/ropensci",
-    "repos_url": "https://api.github.com/orgs/ropensci/repos",
-    "events_url": "https://api.github.com/orgs/ropensci/events",
-    "hooks_url": "https://api.github.com/orgs/ropensci/hooks",
-    "issues_url": "https://api.github.com/orgs/ropensci/issues",
-    "members_url": "https://api.github.com/orgs/ropensci/members{/member}",
-    "public_members_url": "https://api.github.com/orgs/ropensci/public_members{/member}",
-    "avatar_url": "https://avatars.githubusercontent.com/u/1200269?v=4",
-    "description": ""
   }
   
   
